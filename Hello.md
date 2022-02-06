@@ -1,1 +1,1 @@
-I have finished this course.
+I have finished reading through the introduction and have learned a lot about navigating through and utilizing github!
